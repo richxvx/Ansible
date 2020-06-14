@@ -2,7 +2,9 @@
 
 For this project, I wanted to learn how I could automate certain tasks, such as updates, to other systems on my network. I decided to use Ansible.
 
-Ansible is very simple to use. You setup Ansible on your main server (the *control node*), and your client machines (your *managed nodes*) only need to have SSH running; no other software is required.
+Ansible is very simple to use. You setup Ansible on your main server (the *control node*), and your client machines (your *managed nodes*) only need to have SSH running; no other software is required. For this project, i'll be using a Ubuntu server, and 2 client machines (also running Ubuntu)
+
+<img title="" src="https://drive.google.com/uc?id=1MhtiRQ50eQrP1Lj20MT6nLve-9Ddm_m2" alt="" width="332">
 
 ## Installing Ansible
 
