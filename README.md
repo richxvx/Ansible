@@ -1,4 +1,4 @@
-# Configuration management with <u>Ansible</u>
+# System Automation with <u>Ansible</u>
 
 For this project, I wanted to learn how I could automate certain tasks, such as updates, to other systems on my network. I decided to use Ansible.
 
